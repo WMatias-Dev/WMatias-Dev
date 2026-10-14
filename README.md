@@ -30,11 +30,11 @@ Estudante de Ciência e Tecnologia na UFMA, com foco em desenvolvimento backend 
 
 ### 🚀 Projetos em destaque
 
-**[Document AI Platform](https://github.com/WMAtias-Dev)**  
+**[Document AI Platform](https://github.com/WMatias-Dev/document-ai-platform)**  
 Plataforma para gestão e consulta inteligente de documentos utilizando RAG, busca vetorial e agentes de IA.  
 `Python` `FastAPI` `PostgreSQL` `pgvector` `LangGraph` `LlamaIndex` `Docker`
 
-**[Concurrent Scheduling API](https://github.com/WMAtias-Dev)**  
+**[Concurrent Scheduling API](https://github.com/WMatias-Dev/API-RESTful-de-Agendamentos-Concorrentes)**  
 API RESTful para agendamento concorrente, com autenticação JWT, SQLAlchemy, locks no PostgreSQL, análise de race conditions e testes automatizados.  
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pytest`
 
